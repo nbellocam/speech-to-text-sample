@@ -60,7 +60,7 @@ typings/
 # next.js build output
 .next
 
-bin
+bin/ffmpeg*
 your-file.mp4
 your-file.wav
 transcript.vtt
